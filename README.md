@@ -10,7 +10,7 @@ Based on this formula the algorithm is designed
 
 GCD is done by using EUCLIDEAN method and can be take less time
 
-LCM can be done for any number and it can be done for large numbers also.
+LCM can be done for more numbers and it can be done for large numbers also.
 
 No additional softwares like java,python,etc... are not required.
 
